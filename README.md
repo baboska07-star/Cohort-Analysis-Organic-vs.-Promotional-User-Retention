@@ -1,4 +1,4 @@
-Cohort Analysis: Organic vs. Promotional User Retention
+# Cohort Analysis: Organic vs. Promotional User Retention
 
 ## Project Overview
 
@@ -43,8 +43,6 @@ The goal is to compare retention rates between acquisition channels and identify
 - Evaluate acquisition channels based on retention, not only registrations.
 
 - Investigate lower retention among promotional users.
-
-- Review campaign targeting and user onboarding.
 
 - Focus on growing organic acquisition and investigate promotional campaigns to improve long-term user retention.
 
