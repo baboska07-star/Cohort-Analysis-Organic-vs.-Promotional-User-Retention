@@ -10,21 +10,21 @@ The goal is to compare retention rates between acquisition channels and identify
 
 ## Tools
 
-SQL — data extraction and preparation
+- SQL — data extraction and preparation
 
-Google Sheets — cohort analysis and data visualization
+- Google Sheets — cohort analysis and data visualization
 
 ## Analysis Process
 
-Retrieved and prepared data using SQL.
+- Retrieved and prepared data using SQL.
 
-Grouped users into monthly cohorts.
+- Grouped users into monthly cohorts.
 
-Segmented users by acquisition channel.
+- Segmented users by acquisition channel.
 
-Calculated monthly Retention Rates.
+- Calculated monthly retention rates in Google Sheets.
 
-Compared organic and promotional user retention.
+- Compared organic and promotional user retention.
 
 ## Visualizations
 
@@ -32,21 +32,21 @@ Compared organic and promotional user retention.
 
 ## Key Findings
 
-Organic acquisition brought 358 users, compared to 242 users from promotional acquisition.
+- Organic acquisition attracted more users than promotional campaigns (358 vs. 242) and showed consistently higher retention.
 
-Organic users generally showed higher retention.
+- For the January cohort, organic retention was 83% after one month and 56% after five months, compared to 62% and 9% for promotional users.
 
-January 2025 organic cohort retention: approximately 83% after one month and 56% after five months.
-
-January 2025 promotional cohort retention: approximately 62% after one month and 9% after five months.
+- The May cohort showed a similar gap: 87% organic retention versus 47% promotional retention after one month.
 
 ## Business Recommendations
 
-Evaluate acquisition channels based on retention, not only registrations.
+- Evaluate acquisition channels based on retention, not only registrations.
 
-Investigate lower retention among promotional users.
+- Investigate lower retention among promotional users.
 
-Review campaign targeting and user onboarding.
+- Review campaign targeting and user onboarding.
+
+- Focus on growing organic acquisition and investigate promotional campaigns to improve long-term user retention.
 
 ## Conclusion
 
