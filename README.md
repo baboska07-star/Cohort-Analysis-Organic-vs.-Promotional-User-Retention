@@ -1,20 +1,20 @@
 Cohort Analysis: Organic vs. Promotional User Retention
 
-Project Overview
+##Project Overview
 
 This project analyzes user retention across organic and promotional acquisition channels to understand how user engagement changes over time.
 
-Business Objective
+##Business Objective
 
 The goal is to compare retention rates between acquisition channels and identify which channel brings users with stronger long-term engagement.
 
-Tools
+##Tools
 
 SQL — data extraction and preparation
 
 Google Sheets — cohort analysis and data visualization
 
-Analysis Process
+##Analysis Process
 
 Retrieved and prepared data using SQL.
 
@@ -26,10 +26,6 @@ Calculated monthly Retention Rates.
 
 Compared organic and promotional user retention.
 
-Visualizations
-
-Cohort Retention Comparison
-
 ## Visualizations
 
 ### Cohort Retention Comparison
@@ -37,7 +33,8 @@ Cohort Retention Comparison
 ![User Retention by Acquisition Channel](User%20Retention%20by%20Acquisition%20Channel-2.png)
 
 Comparison of monthly user retention across organic and promotional acquisition channels.
-Key Findings
+
+##Key Findings
 
 Organic acquisition brought 358 users, compared to 242 users from promotional acquisition.
 
