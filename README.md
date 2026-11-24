@@ -26,6 +26,19 @@ Calculated monthly Retention Rates.
 
 Compared organic and promotional user retention.
 
+Visualizations
+
+Cohort Retention Comparison
+
+## Visualizations
+
+### Cohort Retention Comparison
+
+![User Retention by Acquisition Channel](User%20Retention%20by%20Acquisition%20Channel.png)
+
+*Comparison of monthly user retention across organic and promotional acquisition channels.*
+
+Comparison of monthly user retention across organic and promotional acquisition channels.
 Key Findings
 
 Organic acquisition brought 358 users, compared to 242 users from promotional acquisition.
