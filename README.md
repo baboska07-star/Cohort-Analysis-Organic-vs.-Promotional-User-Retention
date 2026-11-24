@@ -44,7 +44,7 @@ January 2025 organic cohort retention: approximately 83% after one month and 56%
 
 January 2025 promotional cohort retention: approximately 62% after one month and 9% after five months.
 
-Business Recommendations
+## Business Recommendations
 
 Evaluate acquisition channels based on retention, not only registrations.
 
@@ -52,6 +52,6 @@ Investigate lower retention among promotional users.
 
 Review campaign targeting and user onboarding.
 
-Conclusion
+## Conclusion
 
 The project demonstrates the use of SQL and Google Sheets for data preparation, cohort analysis, and generating data-driven business insights.
