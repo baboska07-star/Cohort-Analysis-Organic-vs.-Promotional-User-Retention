@@ -34,9 +34,7 @@ Cohort Retention Comparison
 
 ### Cohort Retention Comparison
 
-![User Retention by Acquisition Channel-2](User%20Retention%20by%20Acquisition%20Channel.png)
-
-*Comparison of monthly user retention across organic and promotional acquisition channels.*
+![User Retention by Acquisition Channel](User%20Retention%20by%20Acquisition%20Channel-2.png)
 
 Comparison of monthly user retention across organic and promotional acquisition channels.
 Key Findings
